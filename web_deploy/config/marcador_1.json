@@ -1,0 +1,7 @@
+{
+    "id": "1",
+    "nombre": "Probabilidad Predictiva",
+    "def": "Evalúa si un mensaje presenta patrones previsibles (IA) o inesperados (Humano). Se basa en la espontaneidad lingüística y la variabilidad estadística.",
+    "pos": "Introduce combinaciones léxicas poco comunes, metáforas, giros expresivos no previsibles y desvíos creativos. Usa indicadores como 'curiosamente', 'de algún modo', 'casi como si'.",
+    "neg": "Usa fórmulas administrativas recurrentes, secuencias estandarizadas y estructuras rígidas. Emplear indicadores como 'se procede a', 'de acuerdo con', 'se establece que'."
+}
